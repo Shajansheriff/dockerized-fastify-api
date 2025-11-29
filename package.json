@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/Shajansheriff/dockerized-fastify-api/issues"
   },
-  "homepage": "https://github.com/Shajansheriff/dockerized-fastify-api#readme"
+  "homepage": "https://github.com/Shajansheriff/dockerized-fastify-api#readme",
+  "dependencies": {
+    "fastify": "^5.6.2"
+  },
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.5",
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3"
+  }
 }
